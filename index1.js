@@ -1,5 +1,6 @@
 //Function declaration.
 function checkSpeed() {
+    //Prompt for Speed
     let speed = prompt("Enter the speed of the car (km/s):");
     speed = parseInt(speed);
 

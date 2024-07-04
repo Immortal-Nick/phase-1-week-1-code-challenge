@@ -41,4 +41,14 @@ checkSpeed();
 
 Challenge 3: Net Salary Calculator 
 
+//NSSF
+1. NSSF calculation takes 6% of the basic salary  and returns the minimum value between the returned value and 1080.
+
+//NHIF
+2. NHIF calculations uses classes of salaries. We therefore use the if ..else logical expressions to get the correct value.
+
+//PAYE
+1. For the correct amount we still get the correct value by taking (basic salary-NSSF) then multiplying by the correct progressive tax rate. if ..else operator is also used.
+
+Net Salary is obtained by taking Basic salary-(NHIF+ PAYE+ NSSF)
 
